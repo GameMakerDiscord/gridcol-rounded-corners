@@ -1,0 +1,1 @@
+__sr_drawlist_ev_destroy();
