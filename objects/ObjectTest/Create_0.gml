@@ -26,7 +26,6 @@ max_speed = 2;
 
 corner_offset = 8;
 
-bbox_corners = [];
 
 cx = 0;
 cy = 0;
